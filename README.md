@@ -19,4 +19,4 @@ A lightweight Python application with a graphical interface to convert `.py` fil
 ```bash
 git clone https://github.com/yourusername/Py-to-EXE-Generator-GUI.git
 cd Py-to-EXE-Generator-GUI
-pip install -r requirements.txt 
+pip install -r requirements.txt
