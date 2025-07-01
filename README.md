@@ -1,5 +1,5 @@
 
-# Py-to-EXE Generator GUI 
+# Py-to-EXE Generator GUI
 
 A lightweight Python application with a graphical interface to convert `.py` files into standalone `.exe` executables using **PyInstaller**.
 
