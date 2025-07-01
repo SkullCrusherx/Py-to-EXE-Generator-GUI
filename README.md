@@ -7,7 +7,7 @@ A lightweight Python application with a graphical interface to convert `.py` fil
 - Simple, intuitive GUI built with Tkinter
 - Supports script selection and destination folder setup
 - One-click `.exe` generation via PyInstaller
-- Cross-version Python compatibility (3.x)
+- Cross-version Python compatibility (3.x) 
 
 ## ⚙️ Requirements
 - Python 3.x installed
